@@ -1,0 +1,133 @@
+#Total No. of N-Gram Types: 131
+#Total No. of N-Gram Tokens: 467
+1	3	1	an electric or hybrid
+2	3	1	an electric or hybrid vehicle
+3	3	1	an electric or hybrid vehicle battery
+4	3	1	at the moment i
+5	3	1	at the same time
+6	4	1	auf jeden fall mal
+7	3	1	batterien in der medizintechnik
+8	3	1	batteries in medical engineering
+9	6	1	bio hallo ihr lieben
+10	4	1	den rest des semesters
+11	3	1	development process using the
+12	3	1	development process using the example
+13	3	1	development process using the example of
+14	3	1	development process using the example of an
+15	3	1	dr ing janina fels
+16	3	1	ein neues study with
+17	3	1	ein neues study with me
+18	3	1	electric or hybrid vehicle
+19	3	1	electric or hybrid vehicle battery
+20	3	1	engineering hallo ihr lieben
+21	3	1	engineering link in bio
+22	3	1	engineering link in bio hallo
+23	3	1	engineering link in bio hallo ihr
+24	3	1	engineering link in bio hallo ihr lieben
+25	3	1	english hallo ihr lieben
+26	3	1	euch noch einen schönen
+27	3	1	example of an electric
+28	3	1	example of an electric or
+29	3	1	example of an electric or hybrid
+30	3	1	example of an electric or hybrid vehicle
+31	3	1	findet ihr im linktree
+32	3	1	findet ihr im linktree in
+33	3	1	findet ihr im linktree in unserer
+34	3	1	findet ihr im linktree in unserer bio
+35	3	1	german english hallo ihr
+36	3	1	german english hallo ihr lieben
+37	15	1	guten morgen ihr lieben
+38	7	1	guten morgen ihr lieben ich
+39	4	1	guten morgen ihr lieben ich hoffe
+40	4	1	guten morgen ihr lieben ich hoffe ihr
+41	3	1	habt ihr auch schon
+42	6	1	habt noch einen schönen
+43	4	1	habt noch einen schönen sonntag
+44	4	1	hallo ihr lieben da
+45	4	1	hallo ihr lieben da ich
+46	4	1	hallo ihr lieben die
+47	3	1	hallo ihr lieben heute
+48	5	1	hallo ihr lieben ich
+49	3	1	i wish you a
+50	3	1	ich hoffe dass es
+51	4	1	ich hoffe ihr hattet
+52	3	1	ich werde auf jeden
+53	3	1	ich werde auf jeden fall
+54	3	1	ich wünsche euch noch
+55	3	1	ich wünsche euch noch einen
+56	3	1	ihr im linktree in
+57	3	1	ihr im linktree in unserer
+58	3	1	ihr im linktree in unserer bio
+59	4	1	ihr lieben da ich
+60	3	1	ihr lieben diese woche
+61	6	1	ihr lieben ich hoffe
+62	5	1	ihr lieben ich hoffe ihr
+63	4	1	ihr lieben ich hoffe ihr hattet
+64	4	1	im linktree in unserer
+65	4	1	im linktree in unserer bio
+66	6	1	in bio hallo ihr
+67	6	1	in bio hallo ihr lieben
+68	3	1	in die neue woche
+69	3	1	industrial product development process
+70	3	1	industrial product development process using
+71	3	1	industrial product development process using the
+72	3	1	industrial product development process using the example
+73	5	1	lieben ich hoffe ihr
+74	4	1	lieben ich hoffe ihr hattet
+75	6	1	link in bio hallo
+76	6	1	link in bio hallo ihr
+77	6	1	link in bio hallo ihr lieben
+78	4	1	linktree in unserer bio
+79	3	1	machen kann dass ich
+80	3	1	mathematics guten morgen ihr
+81	3	1	mathematics guten morgen ihr lieben
+82	3	1	modelling of mechatronic systems
+83	7	1	morgen ihr lieben ich
+84	4	1	morgen ihr lieben ich hoffe
+85	4	1	morgen ihr lieben ich hoffe ihr
+86	3	1	morgen ihr lieben ich hoffe ihr hattet
+87	3	1	neues study with me
+88	4	1	noch einen schönen sonntag
+89	3	1	notes rapid control prototyping
+90	3	1	of an electric or
+91	3	1	of an electric or hybrid
+92	3	1	of an electric or hybrid vehicle
+93	3	1	of an electric or hybrid vehicle battery
+94	3	1	or hybrid vehicle battery
+95	3	1	process using the example
+96	3	1	process using the example of
+97	3	1	process using the example of an
+98	3	1	process using the example of an electric
+99	3	1	product development process using
+100	3	1	product development process using the
+101	3	1	product development process using the example
+102	3	1	product development process using the example of
+103	3	1	prof dr ing janina
+104	3	1	prof dr ing janina fels
+105	3	1	project with elektrotechnik rwth
+106	3	1	projekt mit elektrotechnik rwth
+107	3	1	study notes rapid control
+108	3	1	study notes rapid control prototyping
+109	3	1	study with me embedded
+110	3	1	study with me embedded systems
+111	3	1	study with me video
+112	3	1	studynotes computer arithmetic fundamentals
+113	4	1	thank you so much
+114	5	1	that i have to
+115	4	1	that s why i
+116	3	1	the example of an
+117	3	1	the example of an electric
+118	3	1	the example of an electric or
+119	3	1	the example of an electric or hybrid
+120	3	1	und ich freue mich
+121	3	1	using the example of
+122	3	1	using the example of an
+123	3	1	using the example of an electric
+124	3	1	using the example of an electric or
+125	4	1	was steht bei euch
+126	3	1	werde auf jeden fall
+127	3	1	with me embedded systems
+128	3	1	wünsche euch noch einen
+129	3	1	wünsche ich dir auch
+130	3	1	wünsche ich euch einen
+131	4	1	yt link in bio

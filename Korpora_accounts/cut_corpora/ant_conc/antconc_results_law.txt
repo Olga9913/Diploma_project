@@ -1,0 +1,291 @@
+#Total No. of N-Gram Types: 289
+#Total No. of N-Gram Tokens: 1186
+1	3	1	a g p
+2	3	1	a g p r
+3	3	1	a g p r a
+4	3	1	a g p r a k
+5	3	1	a g p r a k t
+6	4	1	a k t
+7	4	1	a k t i
+8	4	1	a k t i k
+9	4	1	a k t i k u
+10	4	1	a k t i k u m
+11	4	1	a m e
+12	4	1	a m e n
+13	4	1	a m e n s
+14	4	1	a m e n s v
+15	4	1	a m e n s v o
+16	6	1	abend eure mstr
+17	6	1	abend eure mstr erin
+18	3	1	aber ich habe
+19	3	1	abgabe der hausarbeit
+20	6	1	an den schreibtisch
+21	4	1	an der hausarbeit
+22	5	1	an meiner hausarbeit
+23	5	1	auch wenn ich
+24	3	1	auf das lernen
+25	5	1	auf dem plan
+26	4	1	auf dem plan stand
+27	3	1	auf die arbeit
+28	9	1	auf jeden fall
+29	3	1	auf meinen körper
+30	4	1	b e r
+31	4	1	b e r e
+32	4	1	b e r e i
+33	4	1	b e r e i t
+34	4	1	b e r e i t u
+35	3	1	bei mir auch
+36	4	1	bin ich mit
+37	3	1	d h ich
+38	3	1	danke für die
+39	3	1	darauf freue ich
+40	3	1	darauf freue ich mich
+41	5	1	das freut mich
+42	5	1	das gefühl dass
+43	5	1	das habe ich
+44	5	1	das ist so
+45	3	1	dass ich das
+46	5	1	dass ich mich
+47	4	1	dem plan stand
+48	4	1	den ganzen tag
+49	3	1	deshalb habe ich
+50	3	1	die dinge die
+51	3	1	dir viel erfolg
+52	5	1	e i t
+53	4	1	e i t u
+54	4	1	e i t u n
+55	4	1	e i t u n g
+56	5	1	e n s
+57	4	1	e n s v
+58	4	1	e n s v o
+59	4	1	e n s v o r
+60	4	1	e n s v o r b
+61	4	1	e r e
+62	4	1	e r e i
+63	4	1	e r e i t
+64	4	1	e r e i t u
+65	4	1	e r e i t u n
+66	4	1	e x a
+67	4	1	e x a m
+68	4	1	e x a m e
+69	4	1	e x a m e n
+70	4	1	e x a m e n s
+71	4	1	ein schönes wochenende
+72	3	1	eine halbe stunde
+73	10	1	einen schönen abend
+74	4	1	einen schönen abend eure
+75	4	1	einen schönen abend eure mstr
+76	4	1	einen schönen abend eure mstr erin
+77	4	1	english version below
+78	3	1	es für mich
+79	4	1	es handelt sich
+80	3	1	es handelt sich dabei
+81	3	1	es ist wichtig
+82	9	1	euch einen schönen
+83	6	1	euch einen schönen abend
+84	42	1	eure mstr erin
+85	5	1	eure mstr erin ich
+86	3	1	fach strafprozessrecht stimmung
+87	4	1	fix und fertig
+88	6	1	freue ich mich
+89	3	1	freue mich auf
+90	3	1	freut mich sehr
+91	3	1	für die dinge
+92	3	1	für die dinge die
+93	3	1	für die übung
+94	3	1	g p r
+95	3	1	g p r a
+96	3	1	g p r a k
+97	3	1	g p r a k t
+98	3	1	g p r a k t i
+99	4	1	gar nicht so
+100	3	1	geht es mir
+101	3	1	gemerkt dass ich
+102	3	1	gestern habe ich
+103	3	1	gibt es zu
+104	7	1	ging es dann
+105	6	1	gute besserung danke
+106	4	1	habe ich auch
+107	4	1	habe ich dann
+108	3	1	habe ich das
+109	3	1	habe ich die
+110	3	1	habe ich mein
+111	7	1	habe ich mich
+112	3	1	habe ich nicht
+113	3	1	habt ihr heute
+114	5	1	hallo ihr lieben
+115	3	1	handelt sich dabei
+116	3	1	hausarbeit zu arbeiten
+117	5	1	heute ging es
+118	11	1	heute habe ich
+119	4	1	heute musste ich
+120	4	1	hoffe ihr hattet
+121	4	1	hoffe ihr hattet einen
+122	4	1	i k u
+123	4	1	i k u m
+124	4	1	i t u
+125	4	1	i t u n
+126	4	1	i t u n g
+127	4	1	ich bin sehr
+128	5	1	ich diese woche
+129	3	1	ich dir auch
+130	3	1	ich fand es
+131	6	1	ich finde es
+132	6	1	ich freue mich
+133	3	1	ich für die
+134	3	1	ich hab schon
+135	4	1	ich habe das
+136	6	1	ich habe heute
+137	3	1	ich habe meine
+138	3	1	ich habe mich
+139	4	1	ich habe mir
+140	3	1	ich hoffe dass
+141	3	1	ich hoffe du
+142	4	1	ich hoffe ihr
+143	3	1	ich hoffe ihr hattet
+144	3	1	ich hoffe ihr hattet einen
+145	3	1	ich in der
+146	3	1	ich komme mit
+147	3	1	ich liebe es
+148	3	1	ich mache mir
+149	4	1	ich mich so
+150	3	1	ich mit der
+151	4	1	ich muss zugeben
+152	4	1	ich muss zugeben dass
+153	4	1	ich muss zugeben dass ich
+154	3	1	ich war heute
+155	4	1	ich weiß nicht
+156	3	1	ich weiß nicht ob
+157	3	1	ich weiß nicht ob ich
+158	4	1	ich wünsche dir
+159	8	1	ich wünsche euch
+160	5	1	ich wünsche euch einen
+161	4	1	ich wünsche euch einen schönen
+162	4	1	ihr hattet einen
+163	3	1	in den nächsten
+164	3	1	in der bib
+165	4	1	in der uni
+166	3	1	in die bib
+167	4	1	in die uni
+168	8	1	in meiner story
+169	3	1	irgendwie war ich
+170	3	1	ist dass man
+171	3	1	ist wenn ich
+172	3	1	jetzt bin ich
+173	4	1	k t i
+174	4	1	k t i k
+175	4	1	k t i k u
+176	4	1	k t i k u m
+177	4	1	k u m
+178	3	1	leider habe ich
+179	4	1	m e n
+180	4	1	m e n s
+181	4	1	m e n s v
+182	4	1	m e n s v o
+183	4	1	m e n s v o r
+184	4	1	mit dem lernen
+185	3	1	mit der hausarbeit
+186	3	1	mit meiner freundin
+187	4	1	morgen geht es
+188	5	1	mstr erin ich
+189	4	1	muss zugeben dass
+190	4	1	muss zugeben dass ich
+191	4	1	n s v
+192	4	1	n s v o
+193	4	1	n s v o r
+194	4	1	n s v o r b
+195	4	1	n s v o r b e
+196	4	1	nach einer stunde
+197	3	1	nicht gut geschlafen
+198	3	1	nicht ob ich
+199	3	1	nicht viel zu
+200	4	1	o r b
+201	4	1	o r b e
+202	4	1	o r b e r
+203	4	1	o r b e r e
+204	4	1	o r b e r e i
+205	4	1	p r a
+206	4	1	p r a k
+207	4	1	p r a k t
+208	4	1	p r a k t i
+209	4	1	p r a k t i k
+210	4	1	r a k
+211	4	1	r a k t
+212	4	1	r a k t i
+213	4	1	r a k t i k
+214	4	1	r a k t i k u
+215	4	1	r b e
+216	4	1	r b e r
+217	4	1	r b e r e
+218	4	1	r b e r e i
+219	4	1	r b e r e i t
+220	5	1	r e i
+221	5	1	r e i t
+222	4	1	r e i t u
+223	4	1	r e i t u n
+224	4	1	r e i t u n g
+225	4	1	s v o
+226	4	1	s v o r
+227	4	1	s v o r b
+228	4	1	s v o r b e
+229	4	1	s v o r b e r
+230	4	1	schönen abend euch
+231	5	1	schönen abend eure
+232	5	1	schönen abend eure mstr
+233	5	1	schönen abend eure mstr erin
+234	3	1	schönes foto danke
+235	3	1	short english version
+236	3	1	short english version below
+237	3	1	sich dabei um
+238	3	1	so ein schönes
+239	3	1	so gar nicht
+240	3	1	so gut wie
+241	3	1	so habe ich
+242	5	1	t a g
+243	3	1	t a g p
+244	3	1	t a g p r
+245	3	1	t a g p r a
+246	3	1	t a g p r a k
+247	4	1	t i k
+248	4	1	t i k u
+249	4	1	t i k u m
+250	4	1	t u n
+251	4	1	t u n g
+252	5	1	u n g
+253	3	1	und ich hab
+254	3	1	und nicht mehr
+255	4	1	v o r
+256	4	1	v o r b
+257	4	1	v o r b e
+258	4	1	v o r b e r
+259	4	1	v o r b e r e
+260	3	1	verfügung stehenden zeit
+261	3	1	viel erfolg dabei
+262	3	1	war ich auch
+263	6	1	war ich heute
+264	3	1	was habt ihr
+265	3	1	was habt ihr heute
+266	4	1	was ist wenn
+267	3	1	was ist wenn ich
+268	3	1	was macht ihr
+269	3	1	weiß nicht ob
+270	3	1	weiß nicht ob ich
+271	3	1	wenn ich mich
+272	3	1	wer von euch
+273	5	1	wie war euer
+274	3	1	wünsche dir viel
+275	3	1	wünsche dir viel erfolg
+276	3	1	wünsche euch ein
+277	13	1	wünsche euch einen
+278	9	1	wünsche euch einen schönen
+279	6	1	wünsche euch einen schönen abend
+280	4	1	wünsche ich dir
+281	4	1	x a m
+282	4	1	x a m e
+283	4	1	x a m e n
+284	4	1	x a m e n s
+285	4	1	x a m e n s v
+286	6	1	zugeben dass ich
+287	3	1	zum ersten mal
+288	3	1	zur verfügung stehenden
+289	3	1	zur verfügung stehenden zeit

@@ -1,0 +1,115 @@
+#Total No. of N-Gram Types: 113
+#Total No. of N-Gram Tokens: 396
+1	3	1	alle beiträge zum thema
+2	3	1	alle beiträge zum thema hausarbeit
+3	3	1	alle beiträge zum thema hausarbeit in
+4	3	1	alle beiträge zum thema hausarbeit in einen
+5	3	1	alternativ kannst du den
+6	3	1	alternativ kannst du den beitrag
+7	3	1	alternativ kannst du den beitrag auch
+8	3	1	alternativ kannst du den beitrag auch abspeichern
+9	4	1	aus zwei seminaren seminar
+10	3	1	beiträge zum thema hausarbeit
+11	3	1	beiträge zum thema hausarbeit in
+12	3	1	beiträge zum thema hausarbeit in einen
+13	3	1	beiträge zum thema hausarbeit in einen guide
+14	4	1	besteht aus zwei seminaren
+15	4	1	das auch so siehst
+16	6	1	das ist doch ein
+17	6	1	das ist doch ein klacks
+18	6	1	das ist doch ein klacks teil
+19	4	1	dass du das auch
+20	4	1	dass du das auch so
+21	4	1	dass du das auch so siehst
+22	3	1	den beitrag auch abspeichern
+23	3	1	dir auch einen guten
+24	6	1	doch ein klacks teil
+25	4	1	du das auch so
+26	4	1	du das auch so siehst
+27	3	1	du den beitrag auch
+28	3	1	du den beitrag auch abspeichern
+29	3	1	du sie einfach wiederfinden
+30	3	1	du sie einfach wiederfinden kannst
+31	3	1	du sie einfach wiederfinden kannst alternativ
+32	3	1	du sie einfach wiederfinden kannst alternativ kannst
+33	3	1	einen guide sodass du
+34	3	1	einen guide sodass du sie
+35	3	1	einen guide sodass du sie einfach
+36	3	1	einen guide sodass du sie einfach wiederfinden
+37	3	1	einfach wiederfinden kannst alternativ
+38	3	1	einfach wiederfinden kannst alternativ kannst
+39	3	1	einfach wiederfinden kannst alternativ kannst du
+40	3	1	einfach wiederfinden kannst alternativ kannst du den
+41	4	1	freut mich dass du
+42	4	1	freut mich dass du das
+43	4	1	freut mich dass du das auch
+44	4	1	freut mich dass du das auch so
+45	3	1	guide sodass du sie
+46	3	1	guide sodass du sie einfach
+47	3	1	guide sodass du sie einfach wiederfinden
+48	3	1	guide sodass du sie einfach wiederfinden kannst
+49	3	1	gut ins neue semester
+50	6	1	hausarbeit das ist doch
+51	6	1	hausarbeit das ist doch ein
+52	6	1	hausarbeit das ist doch ein klacks
+53	6	1	hausarbeit das ist doch ein klacks teil
+54	3	1	hausarbeit in einen guide
+55	3	1	hausarbeit in einen guide sodass
+56	3	1	hausarbeit in einen guide sodass du
+57	3	1	hausarbeit in einen guide sodass du sie
+58	3	1	ich dir auch danke
+59	3	1	ich packe alle beiträge
+60	3	1	ich packe alle beiträge zum
+61	3	1	ich packe alle beiträge zum thema
+62	3	1	ich packe alle beiträge zum thema hausarbeit
+63	3	1	in der regel ist
+64	3	1	in einen guide sodass
+65	3	1	in einen guide sodass du
+66	3	1	in einen guide sodass du sie
+67	3	1	in einen guide sodass du sie einfach
+68	6	1	ist doch ein klacks
+69	6	1	ist doch ein klacks teil
+70	3	1	kannst alternativ kannst du
+71	3	1	kannst alternativ kannst du den
+72	3	1	kannst alternativ kannst du den beitrag
+73	3	1	kannst alternativ kannst du den beitrag auch
+74	3	1	kannst du den beitrag
+75	3	1	kannst du den beitrag auch
+76	3	1	kannst du den beitrag auch abspeichern
+77	6	1	mein stundenplan im sose
+78	6	1	mein stundenplan im sose teil
+79	4	1	mich dass du das
+80	4	1	mich dass du das auch
+81	4	1	mich dass du das auch so
+82	4	1	mich dass du das auch so siehst
+83	3	1	packe alle beiträge zum
+84	3	1	packe alle beiträge zum thema
+85	3	1	packe alle beiträge zum thema hausarbeit
+86	3	1	packe alle beiträge zum thema hausarbeit in
+87	3	1	sie einfach wiederfinden kannst
+88	3	1	sie einfach wiederfinden kannst alternativ
+89	3	1	sie einfach wiederfinden kannst alternativ kannst
+90	3	1	sie einfach wiederfinden kannst alternativ kannst du
+91	3	1	sodass du sie einfach
+92	3	1	sodass du sie einfach wiederfinden
+93	3	1	sodass du sie einfach wiederfinden kannst
+94	3	1	sodass du sie einfach wiederfinden kannst alternativ
+95	6	1	stundenplan im sose teil
+96	3	1	thema hausarbeit in einen
+97	3	1	thema hausarbeit in einen guide
+98	3	1	thema hausarbeit in einen guide sodass
+99	3	1	thema hausarbeit in einen guide sodass du
+100	3	1	was für ein zufall
+101	3	1	wenn ich ehrlich bin
+102	3	1	wie geht es dir
+103	3	1	wiederfinden kannst alternativ kannst
+104	3	1	wiederfinden kannst alternativ kannst du
+105	3	1	wiederfinden kannst alternativ kannst du den
+106	3	1	wiederfinden kannst alternativ kannst du den beitrag
+107	5	1	wünsche ich dir auch
+108	3	1	wünsche ich dir auch danke
+109	3	1	zeit mit euren liebsten
+110	3	1	zum thema hausarbeit in
+111	3	1	zum thema hausarbeit in einen
+112	3	1	zum thema hausarbeit in einen guide
+113	3	1	zum thema hausarbeit in einen guide sodass

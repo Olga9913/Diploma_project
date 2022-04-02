@@ -1,0 +1,314 @@
+#Total No. of N-Gram Types: 312
+#Total No. of N-Gram Tokens: 1269
+1	33	1	hallo ihr lieben
+2	27	1	study with me
+3	17	1	auf jeden fall
+4	16	1	link in bio
+5	15	1	guten morgen ihr
+6	15	1	guten morgen ihr lieben
+7	15	1	morgen ihr lieben
+8	14	1	i have to
+9	13	1	ihr lieben ich
+10	10	1	noch einen schönen
+11	8	1	habe ich mir
+12	8	1	ich hoffe ihr
+13	8	1	that i can
+14	7	1	a lot of
+15	7	1	guten morgen ihr lieben ich
+16	7	1	ich hoffe dass
+17	7	1	kann dass ich
+18	7	1	morgen ihr lieben ich
+19	7	1	was habt ihr
+20	7	1	wünsche ich euch
+21	6	1	an der uni
+22	6	1	at the moment
+23	6	1	bio hallo ihr
+24	6	1	bio hallo ihr lieben
+25	6	1	habt ihr auch
+26	6	1	habt noch einen
+27	6	1	habt noch einen schönen
+28	6	1	ich freue mich
+29	6	1	ihr lieben ich hoffe
+30	6	1	in bio hallo
+31	6	1	in bio hallo ihr
+32	6	1	in bio hallo ihr lieben
+33	6	1	lieben ich hoffe
+34	6	1	link in bio hallo
+35	6	1	link in bio hallo ihr
+36	6	1	link in bio hallo ihr lieben
+37	6	1	thanks for sharing
+38	6	1	that i have
+39	5	1	dass ich mir
+40	5	1	einen schönen sonntag
+41	5	1	habe ich mich
+42	5	1	hallo ihr lieben ich
+43	5	1	have a nice
+44	5	1	i am currently
+45	5	1	ich mich nicht
+46	5	1	ich wünsche euch
+47	5	1	ihr lieben da
+48	5	1	ihr lieben ich hoffe ihr
+49	5	1	lieben ich hoffe ihr
+50	5	1	of mechatronic systems
+51	5	1	prof dr ing
+52	5	1	rapid control prototyping
+53	5	1	that i have to
+54	4	1	auf der arbeit
+55	4	1	auf jeden fall mal
+56	4	1	computer arithmetic fundamentals
+57	4	1	den rest des
+58	4	1	den rest des semesters
+59	4	1	die studienarbeit ist
+60	4	1	do you have
+61	4	1	do you use
+62	4	1	euch noch einen
+63	4	1	fh vs uni
+64	4	1	fundamentals of electrical
+65	4	1	gar nicht mehr
+66	4	1	guten morgen ihr lieben ich hoffe
+67	4	1	habt noch einen schönen sonntag
+68	4	1	hallo ihr lieben da
+69	4	1	hallo ihr lieben da ich
+70	4	1	hallo ihr lieben die
+71	4	1	have to be
+72	4	1	heute habe ich
+73	4	1	hoffe ihr hattet
+74	4	1	i don t
+75	4	1	i have a
+76	4	1	i wish you
+77	4	1	ich dir auch
+78	4	1	ich hoffe ihr hattet
+79	4	1	ihr lieben da ich
+80	4	1	ihr lieben die
+81	4	1	ihr lieben heute
+82	4	1	ihr lieben ich hoffe ihr hattet
+83	4	1	im linktree in
+84	4	1	im linktree in unserer
+85	4	1	im linktree in unserer bio
+86	4	1	implantable medical devices
+87	4	1	in unserer bio
+88	4	1	jeden fall mal
+89	4	1	kann ich mich
+90	4	1	lieben da ich
+91	4	1	lieben ich hoffe ihr hattet
+92	4	1	linktree in unserer
+93	4	1	linktree in unserer bio
+94	4	1	modelling of mechatronic
+95	4	1	morgen ihr lieben ich hoffe
+96	4	1	morgen ihr lieben ich hoffe ihr
+97	4	1	muss ich mich
+98	4	1	noch einen schönen sonntag
+99	4	1	on my website
+100	4	1	on the couch
+101	4	1	rest des semesters
+102	4	1	s why i
+103	4	1	so dass ich
+104	4	1	steht bei euch
+105	4	1	thank you so
+106	4	1	thank you so much
+107	4	1	that s why
+108	4	1	that s why i
+109	4	1	was steht bei
+110	4	1	was steht bei euch
+111	4	1	wünsche ich dir
+112	4	1	you so much
+113	4	1	yt link in
+114	4	1	yt link in bio
+115	3	1	aber auch nicht
+116	3	1	aber ich bin
+117	3	1	aber ich habe
+118	3	1	allen einen schönen
+119	3	1	allerdings bin ich
+120	3	1	an den schreibtisch
+121	3	1	an electric or
+122	3	1	an electric or hybrid
+123	3	1	an electric or hybrid vehicle
+124	3	1	an electric or hybrid vehicle battery
+125	3	1	arbeit habe ich
+126	3	1	at the moment i
+127	3	1	at the same
+128	3	1	at the same time
+129	3	1	auch noch ein
+130	3	1	auf der couch
+131	3	1	auf meiner website
+132	3	1	batterien in der
+133	3	1	batterien in der medizintechnik
+134	3	1	batteries in medical
+135	3	1	batteries in medical engineering
+136	3	1	be able to
+137	3	1	dafür habe ich
+138	3	1	das freut mich
+139	3	1	das ist ein
+140	3	1	dass ich in
+141	3	1	den nächsten wochen
+142	3	1	development process using
+143	3	1	development process using the
+144	3	1	development process using the example
+145	3	1	development process using the example of
+146	3	1	die neue woche
+147	3	1	diese woche noch
+148	3	1	don t have
+149	3	1	dr ing janina
+150	3	1	dr ing janina fels
+151	3	1	ein neues study
+152	3	1	ein neues study with
+153	3	1	ein neues study with me
+154	3	1	einen schönen start
+155	3	1	electric or hybrid
+156	3	1	electric or hybrid vehicle
+157	3	1	electric or hybrid vehicle battery
+158	3	1	engineering hallo ihr
+159	3	1	engineering hallo ihr lieben
+160	3	1	engineering link in
+161	3	1	engineering link in bio
+162	3	1	engineering link in bio hallo
+163	3	1	engineering link in bio hallo ihr
+164	3	1	english hallo ihr
+165	3	1	english hallo ihr lieben
+166	3	1	euch noch einen schönen
+167	3	1	example of an
+168	3	1	example of an electric
+169	3	1	example of an electric or
+170	3	1	example of an electric or hybrid
+171	3	1	findet ihr im
+172	3	1	findet ihr im linktree
+173	3	1	findet ihr im linktree in
+174	3	1	findet ihr im linktree in unserer
+175	3	1	freue mich auf
+176	3	1	für die uni
+177	3	1	german english hallo
+178	3	1	german english hallo ihr
+179	3	1	german english hallo ihr lieben
+180	3	1	get well soon
+181	3	1	hab ich auch
+182	3	1	habe ich auch
+183	3	1	habe ich das
+184	3	1	habe ich die
+185	3	1	habt ihr auch schon
+186	3	1	hallo ihr lieben heute
+187	3	1	have you ever
+188	3	1	hoffe dass es
+189	3	1	how do you
+190	3	1	hybrid vehicle battery
+191	3	1	i can only
+192	3	1	i decided to
+193	3	1	i didn t
+194	3	1	i have my
+195	3	1	i want to
+196	3	1	i wish you a
+197	3	1	ich euch einen
+198	3	1	ich euch mal
+199	3	1	ich habe heute
+200	3	1	ich habe mich
+201	3	1	ich hoffe dass es
+202	3	1	ich meine studienarbeit
+203	3	1	ich nur noch
+204	3	1	ich werde auf
+205	3	1	ich werde auf jeden
+206	3	1	ich werde auf jeden fall
+207	3	1	ich wünsche euch noch
+208	3	1	ich wünsche euch noch einen
+209	3	1	ihr auch schon
+210	3	1	ihr im linktree
+211	3	1	ihr im linktree in
+212	3	1	ihr im linktree in unserer
+213	3	1	ihr im linktree in unserer bio
+214	3	1	ihr lieben diese
+215	3	1	ihr lieben diese woche
+216	3	1	ihr lieben meine
+217	3	1	in addition to
+218	3	1	in any case
+219	3	1	in der medizintechnik
+220	3	1	in die neue
+221	3	1	in die neue woche
+222	3	1	in letzter zeit
+223	3	1	in medical engineering
+224	3	1	industrial product development
+225	3	1	industrial product development process
+226	3	1	industrial product development process using
+227	3	1	industrial product development process using the
+228	3	1	ing janina fels
+229	3	1	it s really
+230	3	1	lehr und forschungsgebiet
+231	3	1	lieben diese woche
+232	3	1	machen kann dass
+233	3	1	machen kann dass ich
+234	3	1	mathematics guten morgen
+235	3	1	mathematics guten morgen ihr
+236	3	1	mathematics guten morgen ihr lieben
+237	3	1	me embedded systems
+238	3	1	means that i
+239	3	1	mich dazu entschlossen
+240	3	1	mit elektrotechnik rwth
+241	3	1	modelling of mechatronic systems
+242	3	1	moment i can
+243	3	1	morgen wird es
+244	3	1	neues study with
+245	3	1	neues study with me
+246	3	1	notes rapid control
+247	3	1	notes rapid control prototyping
+248	3	1	nur dass ich
+249	3	1	of an electric
+250	3	1	of an electric or
+251	3	1	of an electric or hybrid
+252	3	1	of an electric or hybrid vehicle
+253	3	1	of electrical engineering
+254	3	1	or hybrid vehicle
+255	3	1	or hybrid vehicle battery
+256	3	1	process using the
+257	3	1	process using the example
+258	3	1	process using the example of
+259	3	1	process using the example of an
+260	3	1	product development process
+261	3	1	product development process using
+262	3	1	product development process using the
+263	3	1	product development process using the example
+264	3	1	prof dr ing janina
+265	3	1	prof dr ing janina fels
+266	3	1	project with elektrotechnik
+267	3	1	project with elektrotechnik rwth
+268	3	1	projekt mit elektrotechnik
+269	3	1	projekt mit elektrotechnik rwth
+270	3	1	since i am
+271	3	1	start in die
+272	3	1	study notes rapid
+273	3	1	study notes rapid control
+274	3	1	study notes rapid control prototyping
+275	3	1	study with me embedded
+276	3	1	study with me embedded systems
+277	3	1	study with me video
+278	3	1	studynotes computer arithmetic
+279	3	1	studynotes computer arithmetic fundamentals
+280	3	1	the example of
+281	3	1	the example of an
+282	3	1	the example of an electric
+283	3	1	the example of an electric or
+284	3	1	the living room
+285	3	1	the moment i
+286	3	1	the same time
+287	3	1	there will be
+288	3	1	to get it
+289	3	1	und ich freue
+290	3	1	und ich freue mich
+291	3	1	using the example
+292	3	1	using the example of
+293	3	1	using the example of an
+294	3	1	using the example of an electric
+295	3	1	viel erfolg danke
+296	3	1	want to lose
+297	3	1	werde auf jeden
+298	3	1	werde auf jeden fall
+299	3	1	werde ich mal
+300	3	1	what do you
+301	3	1	wie plant ihr
+302	3	1	wieder ein paar
+303	3	1	wish you a
+304	3	1	with elektrotechnik rwth
+305	3	1	with me embedded
+306	3	1	with me embedded systems
+307	3	1	with me video
+308	3	1	wünsche euch noch
+309	3	1	wünsche euch noch einen
+310	3	1	wünsche ich dir auch
+311	3	1	wünsche ich euch einen
+312	3	1	über jede rückmeldung

@@ -1,0 +1,251 @@
+#Total No. of N-Gram Types: 249
+#Total No. of N-Gram Tokens: 905
+1	10	1	vielen lieben dank
+2	9	1	das freut mich
+3	9	1	ich wünsche euch
+4	9	1	wünsche ich dir
+5	8	1	auf jeden fall
+6	8	1	vielen dank dir
+7	7	1	ist doch ein
+8	6	1	aus zwei seminaren
+9	6	1	das auch so
+10	6	1	das ist doch
+11	6	1	das ist doch ein
+12	6	1	das ist doch ein klacks
+13	6	1	das ist doch ein klacks teil
+14	6	1	doch ein klacks
+15	6	1	doch ein klacks teil
+16	6	1	ein klacks teil
+17	6	1	hausarbeit das ist
+18	6	1	hausarbeit das ist doch
+19	6	1	hausarbeit das ist doch ein
+20	6	1	hausarbeit das ist doch ein klacks
+21	6	1	ich wünsche dir
+22	6	1	im sose teil
+23	6	1	ist doch ein klacks
+24	6	1	ist doch ein klacks teil
+25	6	1	mein stundenplan im
+26	6	1	mein stundenplan im sose
+27	6	1	mein stundenplan im sose teil
+28	6	1	stundenplan im sose
+29	6	1	stundenplan im sose teil
+30	6	1	und vor allem
+31	5	1	freut mich dass
+32	5	1	ich dir auch
+33	5	1	in der bib
+34	5	1	ins neue semester
+35	5	1	oh vielen dank
+36	5	1	wünsche ich dir auch
+37	4	1	auch dass das
+38	4	1	auch einen guten
+39	4	1	auch so siehst
+40	4	1	aus zwei seminaren seminar
+41	4	1	bei den anderen
+42	4	1	besteht aus zwei
+43	4	1	besteht aus zwei seminaren
+44	4	1	danke für die
+45	4	1	das auch so siehst
+46	4	1	das finde ich
+47	4	1	das neue semester
+48	4	1	dass du das
+49	4	1	dass du das auch
+50	4	1	dass du das auch so
+51	4	1	dass du das auch so siehst
+52	4	1	du das auch
+53	4	1	du das auch so
+54	4	1	du das auch so siehst
+55	4	1	ein gif oder
+56	4	1	erzähl doch mal
+57	4	1	freut mich dass du
+58	4	1	freut mich dass du das
+59	4	1	freut mich dass du das auch
+60	4	1	für das wise
+61	4	1	gefragt wie es
+62	4	1	gifs and memes
+63	4	1	ich glaube ich
+64	4	1	in der akademie
+65	4	1	ist das eine
+66	4	1	mich dass du
+67	4	1	mich dass du das
+68	4	1	mich dass du das auch
+69	4	1	mich dass du das auch so
+70	4	1	mir geht es
+71	4	1	und bei den
+72	4	1	was für ein
+73	4	1	zum ersten mal
+74	4	1	zwei seminaren seminar
+75	3	1	alle beiträge zum
+76	3	1	alle beiträge zum thema
+77	3	1	alle beiträge zum thema hausarbeit
+78	3	1	alle beiträge zum thema hausarbeit in
+79	3	1	alles gute nachträglich
+80	3	1	alternativ kannst du
+81	3	1	alternativ kannst du den
+82	3	1	alternativ kannst du den beitrag
+83	3	1	alternativ kannst du den beitrag auch
+84	3	1	auch auf dem
+85	3	1	auch noch ein
+86	3	1	ausstellung süße jahreszeiten
+87	3	1	bei dir ich
+88	3	1	bei mir auch
+89	3	1	beitrag auch abspeichern
+90	3	1	beiträge zum thema
+91	3	1	beiträge zum thema hausarbeit
+92	3	1	beiträge zum thema hausarbeit in
+93	3	1	beiträge zum thema hausarbeit in einen
+94	3	1	bin gespannt auf
+95	3	1	dafür gibt es
+96	3	1	dann wünsche ich
+97	3	1	das erste mal
+98	3	1	dass es dir
+99	3	1	dass ich die
+100	3	1	dem ende nähert
+101	3	1	den beitrag auch
+102	3	1	den beitrag auch abspeichern
+103	3	1	der kunstakademie karlsruhe
+104	3	1	der regel ist
+105	3	1	dich am besten
+106	3	1	die und klasse
+107	3	1	dir auch danke
+108	3	1	dir auch einen
+109	3	1	dir auch einen guten
+110	3	1	dir ganz viel
+111	3	1	du den beitrag
+112	3	1	du den beitrag auch
+113	3	1	du den beitrag auch abspeichern
+114	3	1	du schaffst das
+115	3	1	du schon mal
+116	3	1	du sie einfach
+117	3	1	du sie einfach wiederfinden
+118	3	1	du sie einfach wiederfinden kannst
+119	3	1	du sie einfach wiederfinden kannst alternativ
+120	3	1	ein paar wochen
+121	3	1	einen guide sodass
+122	3	1	einen guide sodass du
+123	3	1	einen guide sodass du sie
+124	3	1	einen guide sodass du sie einfach
+125	3	1	einen schönen tag
+126	3	1	einfach wiederfinden kannst
+127	3	1	einfach wiederfinden kannst alternativ
+128	3	1	einfach wiederfinden kannst alternativ kannst
+129	3	1	einfach wiederfinden kannst alternativ kannst du
+130	3	1	es hat mich
+131	3	1	finde ich auch
+132	3	1	frank str vordergebäude
+133	3	1	frisch aus der
+134	3	1	frisch ins neue
+135	3	1	für ein zufall
+136	3	1	gar nicht so
+137	3	1	geht es dir
+138	3	1	geht es los
+139	3	1	guide sodass du
+140	3	1	guide sodass du sie
+141	3	1	guide sodass du sie einfach
+142	3	1	guide sodass du sie einfach wiederfinden
+143	3	1	gut getan hat
+144	3	1	gut ins neue
+145	3	1	gut ins neue semester
+146	3	1	habe ich auch
+147	3	1	habe ich die
+148	3	1	habe ich mich
+149	3	1	hast du auch
+150	3	1	hausarbeit in einen
+151	3	1	hausarbeit in einen guide
+152	3	1	hausarbeit in einen guide sodass
+153	3	1	hausarbeit in einen guide sodass du
+154	3	1	ich bin gespannt
+155	3	1	ich denke dass
+156	3	1	ich dir auch danke
+157	3	1	ich ehrlich bin
+158	3	1	ich finde es
+159	3	1	ich hab mich
+160	3	1	ich hoffe dass
+161	3	1	ich packe alle
+162	3	1	ich packe alle beiträge
+163	3	1	ich packe alle beiträge zum
+164	3	1	ich packe alle beiträge zum thema
+165	3	1	ich weiß dass
+166	3	1	ich weiß nicht
+167	3	1	ich werde jetzt
+168	3	1	in den letzten
+169	3	1	in der küche
+170	3	1	in der regel
+171	3	1	in der regel ist
+172	3	1	in der sonne
+173	3	1	in einen guide
+174	3	1	in einen guide sodass
+175	3	1	in einen guide sodass du
+176	3	1	in einen guide sodass du sie
+177	3	1	ins semester gestartet
+178	3	1	ist echt schön
+179	3	1	ist für mich
+180	3	1	kannst alternativ kannst
+181	3	1	kannst alternativ kannst du
+182	3	1	kannst alternativ kannst du den
+183	3	1	kannst alternativ kannst du den beitrag
+184	3	1	kannst du den
+185	3	1	kannst du den beitrag
+186	3	1	kannst du den beitrag auch
+187	3	1	kannst du den beitrag auch abspeichern
+188	3	1	lohnt es sich
+189	3	1	man nicht in
+190	3	1	mehr als in
+191	3	1	mein nackter panzer
+192	3	1	mit der situation
+193	3	1	mit euren liebsten
+194	3	1	mit meiner familie
+195	3	1	noch ein paar
+196	3	1	oil on canvas
+197	3	1	packe alle beiträge
+198	3	1	packe alle beiträge zum
+199	3	1	packe alle beiträge zum thema
+200	3	1	packe alle beiträge zum thema hausarbeit
+201	3	1	s bei dir
+202	3	1	schön vielen dank
+203	3	1	sehr gefreut als
+204	3	1	sehr schön vielen
+205	3	1	sie einfach wiederfinden
+206	3	1	sie einfach wiederfinden kannst
+207	3	1	sie einfach wiederfinden kannst alternativ
+208	3	1	sie einfach wiederfinden kannst alternativ kannst
+209	3	1	sieht s bei
+210	3	1	sodass du sie
+211	3	1	sodass du sie einfach
+212	3	1	sodass du sie einfach wiederfinden
+213	3	1	sodass du sie einfach wiederfinden kannst
+214	3	1	thema hausarbeit in
+215	3	1	thema hausarbeit in einen
+216	3	1	thema hausarbeit in einen guide
+217	3	1	thema hausarbeit in einen guide sodass
+218	3	1	und ich bin
+219	3	1	und ich denke
+220	3	1	und malte und
+221	3	1	und malten und
+222	3	1	viel erfolg bei
+223	3	1	viel erfolg für
+224	3	1	viel zeit und
+225	3	1	vor allem die
+226	3	1	vor dass ich
+227	3	1	was für ein zufall
+228	3	1	weiß noch nicht
+229	3	1	wenn alles gut
+230	3	1	wenn ich ehrlich
+231	3	1	wenn ich ehrlich bin
+232	3	1	wie geht es
+233	3	1	wie geht es dir
+234	3	1	wie geht s
+235	3	1	wiederfinden kannst alternativ
+236	3	1	wiederfinden kannst alternativ kannst
+237	3	1	wiederfinden kannst alternativ kannst du
+238	3	1	wiederfinden kannst alternativ kannst du den
+239	3	1	während der prüfung
+240	3	1	wünsche dir einen
+241	3	1	wünsche ich dir auch danke
+242	3	1	zeit mit euren
+243	3	1	zeit mit euren liebsten
+244	3	1	zu hören dass
+245	3	1	zum thema hausarbeit
+246	3	1	zum thema hausarbeit in
+247	3	1	zum thema hausarbeit in einen
+248	3	1	zum thema hausarbeit in einen guide
+249	3	1	öl auf leinwand

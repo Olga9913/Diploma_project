@@ -1,0 +1,83 @@
+#Total No. of N-Gram Types: 81
+#Total No. of N-Gram Tokens: 303
+1	10	1	ich wünsche euch
+2	7	1	auf dem weg
+3	7	1	was gibt es
+4	6	1	auf geht s
+5	6	1	ich wünsche euch einen
+6	6	1	wünsche euch einen
+7	5	1	du bist so
+8	5	1	gibt es schöneres
+9	5	1	guten morgen meine
+10	5	1	guten morgen meine lieben
+11	5	1	ich wünsche dir
+12	5	1	in den tag
+13	5	1	in der bibliothek
+14	5	1	morgen euch allen
+15	5	1	morgen meine lieben
+16	5	1	was gibt es schöneres
+17	4	1	auf geht s nach
+18	4	1	bist so wunderschön
+19	4	1	dann hab ich
+20	4	1	du bist so wunderschön
+21	4	1	es schöneres als
+22	4	1	euch einen schönen
+23	4	1	für die nächsten
+24	4	1	geht s nach
+25	4	1	gibt es schöneres als
+26	4	1	gleich geht s
+27	4	1	ich hoffe es
+28	4	1	ich wünsche euch einen schönen
+29	4	1	in die stadt
+30	4	1	was gibt es schöneres als
+31	4	1	wünsche euch einen schönen
+32	4	1	wünsche ich dir
+33	3	1	abend ausklingen lassen
+34	3	1	aber es ist
+35	3	1	auch mal sein
+36	3	1	auf dem weg nach
+37	3	1	auf der terrasse
+38	3	1	da muss ich
+39	3	1	darauf hätte ich
+40	3	1	darauf hätte ich mal
+41	3	1	das bild ist
+42	3	1	das buch ist
+43	3	1	das ist ja
+44	3	1	das neue semester
+45	3	1	dem weg nach
+46	3	1	den abend ausklingen
+47	3	1	den abend ausklingen lassen
+48	3	1	den ganzen tag
+49	3	1	die ersten erdbeeren
+50	3	1	einen schönen abend
+51	3	1	einen wunderschönen sonntag
+52	3	1	frohes neues jahr
+53	3	1	gar nicht so
+54	3	1	geht s in
+55	3	1	geht s in die
+56	3	1	geht s in die stadt
+57	3	1	hab ich auch
+58	3	1	habe ich mir
+59	3	1	hat die hebamme
+60	3	1	hätte ich mal
+61	3	1	ich bin stolz
+62	3	1	ich dir auch
+63	3	1	ich freue mich
+64	3	1	ich habe mich
+65	3	1	ich kann es
+66	3	1	ich kann es kaum
+67	3	1	ich mir mal
+68	3	1	impression aus dem
+69	3	1	in der sonne
+70	3	1	ist es soweit
+71	3	1	kann es kaum
+72	3	1	keine ahnung wie
+73	3	1	muss auch mal
+74	3	1	muss auch mal sein
+75	3	1	muss man sich
+76	3	1	s in die
+77	3	1	s in die stadt
+78	3	1	schreib mir mal
+79	3	1	sollte ich das
+80	3	1	sonntag euch allen
+81	3	1	und vor allem

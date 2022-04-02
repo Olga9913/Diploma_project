@@ -1,0 +1,175 @@
+#Total No. of N-Gram Types: 173
+#Total No. of N-Gram Tokens: 659
+1	3	1	aber auch das
+2	3	1	aber das ist
+3	3	1	aktuell bin ich
+4	3	1	an alle die
+5	3	1	an der charite
+6	3	1	auch mal wieder
+7	4	1	auf deinem weg
+8	3	1	auf dem bild
+9	6	1	auf den medat
+10	11	1	auf jeden fall
+11	3	1	aus danke dir
+12	3	1	außerdem kann man
+13	3	1	bis zum tms
+14	4	1	da bin ich
+15	3	1	danke dir ich
+16	4	1	danke für deine
+17	3	1	danke ganz viel
+18	6	1	danke herzlichen glückwunsch
+19	3	1	danke viel erfolg
+20	3	1	dann wünsche ich
+21	3	1	das danke dir
+22	6	1	das freut mich
+23	3	1	den letzten tagen
+24	4	1	den medat zu
+25	4	1	die arbeit mit
+26	4	1	die bücher geholfen
+27	4	1	die letzten tage
+28	3	1	die major methode
+29	3	1	die pru fung
+30	3	1	die prüfung ab
+31	5	1	dir die daumen
+32	5	1	dir ganz viel
+33	4	1	dir ganz viel erfolg
+34	5	1	dir viel erfolg
+35	3	1	drücke dir die
+36	3	1	drücke dir die daumen
+37	7	1	du schaffst das
+38	3	1	du schaffst das danke
+39	3	1	du schaffst das danke dir
+40	5	1	erfolg auf deinem
+41	4	1	erfolg auf deinem weg
+42	3	1	erfolg bei deiner
+43	3	1	erfolg danke dir
+44	3	1	euch nicht von
+45	3	1	freue mich sehr
+46	3	1	freue mich sehr für
+47	3	1	freue mich sehr für dich
+48	3	1	fu r das
+49	9	1	für den medat
+50	5	1	für den tms
+51	11	1	ganz viel erfolg
+52	3	1	ganz viel glück
+53	6	1	ganz viel spaß
+54	3	1	glückwunsch danke herzlichen
+55	3	1	glückwunsch danke herzlichen glückwunsch
+56	6	1	glückwunsch herzlichen glückwunsch
+57	3	1	glückwunsch und viel
+58	7	1	hab ich mich
+59	3	1	hab ich mir
+60	4	1	habe ich bereits
+61	3	1	habe ich es
+62	12	1	habe ich mich
+63	6	1	habe ich mich vorbereitet
+64	3	1	habe ich mir
+65	3	1	habe mich dann
+66	4	1	haben mir die
+67	4	1	haben mir die bücher
+68	4	1	haben mir die bücher geholfen
+69	5	1	herzlichen glückwunsch danke
+70	3	1	herzlichen glückwunsch danke herzlichen
+71	3	1	herzlichen glückwunsch danke herzlichen glückwunsch
+72	4	1	herzlichen glückwunsch herzlichen
+73	4	1	herzlichen glückwunsch herzlichen glückwunsch
+74	3	1	herzlichen glückwunsch ich
+75	4	1	herzlichen glückwunsch und
+76	3	1	herzlichen glückwunsch und viel
+77	3	1	i love it
+78	3	1	ich bin mir
+79	3	1	ich bin so
+80	3	1	ich drücke dir
+81	3	1	ich drücke dir die
+82	3	1	ich drücke dir die daumen
+83	7	1	ich freu mich
+84	6	1	ich freue mich
+85	3	1	ich freue mich sehr
+86	3	1	ich freue mich sehr für
+87	3	1	ich freue mich sehr für dich
+88	3	1	ich glaube ich
+89	7	1	ich habe mich
+90	3	1	ich habe mir
+91	3	1	ich habe seit
+92	3	1	ich liebe geo
+93	3	1	ich medizin studieren
+94	3	1	ich mich auch
+95	6	1	ich mich vorbereitet
+96	4	1	ich nicht mehr
+97	3	1	ich war mir
+98	9	1	ich wünsche dir
+99	3	1	ich wünsche dir ganz
+100	3	1	ich wünsche dir viel
+101	4	1	ihr die simulation
+102	3	1	immer noch nicht
+103	3	1	in den kommentaren
+104	7	1	in den letzten
+105	3	1	in den letzten tagen
+106	3	1	in den nächsten
+107	4	1	in der kinderklinik
+108	3	1	in der schule
+109	3	1	ist bei mir
+110	3	1	ja ich habe
+111	3	1	jetzt nur noch
+112	4	1	kann man sich
+113	3	1	kannst du mir
+114	3	1	klar dass ich
+115	3	1	kopf nicht hängen
+116	4	1	lasst euch nicht
+117	3	1	lasst euch nicht von
+118	3	1	lief die prüfung
+119	3	1	lief die prüfung ab
+120	3	1	man sich die
+121	4	1	medizin zu studieren
+122	3	1	meiner meinung nach
+123	3	1	melde ich mich
+124	3	1	mich sehr für
+125	3	1	mich sehr für dich
+126	4	1	mir die bücher
+127	4	1	mir die bücher geholfen
+128	3	1	mit einem sehr
+129	3	1	nach dem tms
+130	3	1	nach wie vor
+131	3	1	nicht aus der
+132	3	1	plan b aber
+133	3	1	schaffst das danke
+134	3	1	schaffst das danke dir
+135	3	1	schon gemacht habt
+136	5	1	sehr für dich
+137	3	1	seht ihr auf
+138	3	1	seid ihr schon
+139	4	1	simulation medinaut at
+140	3	1	spaß im studium
+141	3	1	stolz auf dich
+142	3	1	und auch die
+143	3	1	und freue mich
+144	4	1	und ich bin
+145	3	1	und ich habe
+146	4	1	und viel erfolg
+147	3	1	und viel spaß
+148	3	1	und wir haben
+149	4	1	viel erfolg auf
+150	4	1	viel erfolg auf deinem
+151	3	1	viel erfolg auf deinem weg
+152	4	1	viel erfolg bei
+153	3	1	viel erfolg bei deiner
+154	5	1	viel erfolg danke
+155	3	1	viel erfolg danke dir
+156	3	1	viel erfolg und
+157	3	1	viel spaß in
+158	3	1	viel spaß und
+159	3	1	war für mich
+160	7	1	warum habe ich
+161	3	1	wenn man sich
+162	4	1	wie habe ich
+163	4	1	wie habe ich mich
+164	4	1	wie habe ich mich vorbereitet
+165	5	1	wie lief die
+166	3	1	wie lief die prüfung
+167	3	1	wie lief die prüfung ab
+168	4	1	wünsche dir ganz
+169	3	1	wünsche dir ganz viel
+170	3	1	wünsche dir ganz viel erfolg
+171	5	1	wünsche dir viel
+172	4	1	wünsche dir viel erfolg
+173	3	1	zum ersten mal
