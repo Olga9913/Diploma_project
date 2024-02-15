@@ -1,4 +1,4 @@
-# bot.login(username = 'viktoria_sokolova_official',  password = 'putinishero')
+# bot.login(username = 'xxx',  password = 'xxx')
 
 import requests
 import json
